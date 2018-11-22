@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "261097000563",
+    "firebase_url": "https://wedostudy-d3116.firebaseio.com",
+    "project_id": "wedostudy-d3116",
+    "storage_bucket": "wedostudy-d3116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261097000563:android:55974946efe8eeb2",
+        "android_client_info": {
+          "package_name": "com.wedo.study"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261097000563-sdsn69veahp3ae8kl2f14o0gh9s19utk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMX5szfYTKWHavsQQJ5n3TH1eNzEW_yC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
